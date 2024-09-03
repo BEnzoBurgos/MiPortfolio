@@ -55,7 +55,7 @@ header{
 }
 
 .dos{
-    font-size: large;
+    font-size: 22px;
     background-color: #fee78a;
     height: 800px;
     display: flex;
